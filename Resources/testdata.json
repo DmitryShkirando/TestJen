@@ -1,0 +1,14 @@
+﻿{
+  "fileDownload": {
+    "folderPath": "..\\\\Resources\\\\",
+    "fileName": "text.txt"
+  },
+  "fileUpload": {
+    "folderPath": "..\\\\Resources\\\\",
+    "fileName": "UploadFileExample.txt"
+  },
+  "cityName": {
+    "expectedCity": "New York",
+    "expectedCitySecondTestLondon": "London"
+  }
+}

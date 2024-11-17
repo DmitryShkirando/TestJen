@@ -1,0 +1,6 @@
+﻿{
+  "url": "https://www.accuweather.com/",
+  "url2": "https://the-internet.herokuapp.com/",
+  "url3": "https://demoqa.com/",
+  "fileExistsTimeout": 3000
+}

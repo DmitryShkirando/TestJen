@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\d.shkirando\\source\\repos\\EXAM\\Unit4AllureJenkins\\NUnitSpecFlow.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\d.shkirando\\source\\repos\\EXAM\\Unit4AllureJenkins\\NUnitSpecFlow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\d.shkirando\\source\\repos\\EXAM\\Unit4AllureJenkins\\NUnitSpecFlow.csproj",
+        "projectName": "NUnitSpecFlow",
+        "projectPath": "C:\\Users\\d.shkirando\\source\\repos\\EXAM\\Unit4AllureJenkins\\NUnitSpecFlow.csproj",
+        "packagesPath": "C:\\Users\\d.shkirando\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\d.shkirando\\source\\repos\\EXAM\\Unit4AllureJenkins\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\d.shkirando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Allure.SpecFlow": {
+              "target": "Package",
+              "version": "[2.12.1, )"
+            },
+            "Aquality.Selenium": {
+              "target": "Package",
+              "version": "[4.22.0, )"
+            },
+            "Aquality.Selenium.Core": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "NUnit.Allure": {
+              "target": "Package",
+              "version": "[1.2.0.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "Sentry": {
+              "target": "Package",
+              "version": "[4.12.1, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.8.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

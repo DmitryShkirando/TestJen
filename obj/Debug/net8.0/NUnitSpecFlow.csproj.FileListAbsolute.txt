@@ -1,0 +1,974 @@
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\testhost.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\testhost.exe
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\NUnitSpecFlow.deps.json
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\NUnitSpecFlow.runtimeconfig.json
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\NUnitSpecFlow.pdb
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.AssemblyInfoInputs.cache
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.AssemblyInfo.cs
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpe.FF0F0C53.Up2Date
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\obj\Debug\net8.0\refint\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.pdb
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.genruntimeconfig.cache
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\obj\Debug\net8.0\ref\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\BoDi.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\Gherkin.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\TechTalk.SpecFlow.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\SpecFlow.Internal.Json.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\AngleSharp.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\Aquality.Selenium.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\Aquality.Selenium.Core.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\SeleniumExtras.PageObjects.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\NLog.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\WebDriver.Support.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\WebDriver.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\WebDriverManager.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\Allure.Net.Commons.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\Allure.SpecFlowPlugin.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\AspectInjector.Broker.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\0Harmony.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\MimeTypesMap.dll
+C:\Users\d.shkirando\source\repos\NUnitSpecFlow\bin\Debug\net8.0\specflow.json
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\testhost.exe
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\testhost.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\specflow.json
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\NUnitSpecFlow.deps.json
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\NUnitSpecFlow.runtimeconfig.json
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\NUnitSpecFlow.pdb
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\Allure.Net.Commons.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\Allure.SpecFlowPlugin.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\AngleSharp.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\Aquality.Selenium.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\Aquality.Selenium.Core.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\AspectInjector.Broker.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\BoDi.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\SeleniumExtras.PageObjects.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\Gherkin.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\0Harmony.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\MimeTypesMap.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\NLog.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\WebDriver.Support.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\WebDriver.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\TechTalk.SpecFlow.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\SpecFlow.Internal.Json.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\WebDriverManager.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.AssemblyInfoInputs.cache
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.AssemblyInfo.cs
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.sourcelink.json
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpe.FF0F0C53.Up2Date
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\obj\Debug\net8.0\refint\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.pdb
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.genruntimeconfig.cache
+C:\Users\d.shkirando\source\repos\ShkirandoTD\Unit2\NUnitSpecFlow\obj\Debug\net8.0\ref\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\testhost.exe
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\testhost.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\specflow.json
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\NUnitSpecFlow.deps.json
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\NUnitSpecFlow.runtimeconfig.json
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\NUnitSpecFlow.pdb
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\Allure.Net.Commons.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\Allure.SpecFlowPlugin.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\AngleSharp.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\Aquality.Selenium.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\Aquality.Selenium.Core.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\AspectInjector.Broker.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\BoDi.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\SeleniumExtras.PageObjects.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\Gherkin.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\0Harmony.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\MimeTypesMap.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\NLog.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\WebDriver.Support.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\WebDriver.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\TechTalk.SpecFlow.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\SpecFlow.Internal.Json.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\WebDriverManager.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.AssemblyInfoInputs.cache
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.AssemblyInfo.cs
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpe.FF0F0C53.Up2Date
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\obj\Debug\net8.0\refint\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.pdb
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\obj\Debug\net8.0\NUnitSpecFlow.genruntimeconfig.cache
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\obj\Debug\net8.0\ref\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\obj\Debug\net8.0\Sentry.Attributes.cs
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\Sentry.dll
+C:\Users\d.shkirando\source\repos\BDDFinalTask\NUnitSpecFlow\bin\Debug\net8.0\Xamarin.Essentials.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\testhost.exe
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\testhost.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\specflow.json
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\NUnitSpecFlow.deps.json
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\NUnitSpecFlow.runtimeconfig.json
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\NUnitSpecFlow.pdb
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\Allure.Net.Commons.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\Allure.SpecFlowPlugin.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\AngleSharp.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\Aquality.Selenium.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\Aquality.Selenium.Core.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\AspectInjector.Broker.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\BoDi.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\SeleniumExtras.PageObjects.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\Gherkin.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\0Harmony.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\MimeTypesMap.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\NLog.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\WebDriver.Support.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\WebDriver.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\Sentry.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\TechTalk.SpecFlow.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\SpecFlow.Internal.Json.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\WebDriverManager.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\Xamarin.Essentials.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\obj\Debug\net8.0\NUnitSpecFlow.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\obj\Debug\net8.0\NUnitSpecFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\obj\Debug\net8.0\Sentry.Attributes.cs
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\obj\Debug\net8.0\NUnitSpecFlow.AssemblyInfoInputs.cache
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\obj\Debug\net8.0\NUnitSpecFlow.AssemblyInfo.cs
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\obj\Debug\net8.0\NUnitSpecFlow.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\obj\Debug\net8.0\NUnitSpe.FF0F0C53.Up2Date
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\obj\Debug\net8.0\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\obj\Debug\net8.0\refint\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\obj\Debug\net8.0\NUnitSpecFlow.pdb
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\obj\Debug\net8.0\NUnitSpecFlow.genruntimeconfig.cache
+C:\Users\d.shkirando\source\repos\EXAM\Unit3Exam\Unit 3 exam\obj\Debug\net8.0\ref\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\testhost.exe
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\testhost.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\specflow.json
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\NUnitSpecFlow.deps.json
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\NUnitSpecFlow.runtimeconfig.json
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\NUnitSpecFlow.pdb
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\Allure.Net.Commons.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\Allure.SpecFlowPlugin.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\AngleSharp.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\Aquality.Selenium.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\Aquality.Selenium.Core.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\AspectInjector.Broker.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\BoDi.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\SeleniumExtras.PageObjects.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\Gherkin.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\0Harmony.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\MimeTypesMap.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\NLog.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\WebDriver.Support.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\WebDriver.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\Sentry.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\TechTalk.SpecFlow.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\SpecFlow.Internal.Json.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\WebDriverManager.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\Xamarin.Essentials.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\obj\Debug\net8.0\NUnitSpecFlow.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\obj\Debug\net8.0\NUnitSpecFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\obj\Debug\net8.0\Sentry.Attributes.cs
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\obj\Debug\net8.0\NUnitSpecFlow.AssemblyInfoInputs.cache
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\obj\Debug\net8.0\NUnitSpecFlow.AssemblyInfo.cs
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\obj\Debug\net8.0\NUnitSpecFlow.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\obj\Debug\net8.0\NUnitSpe.FF0F0C53.Up2Date
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\obj\Debug\net8.0\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\obj\Debug\net8.0\refint\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\obj\Debug\net8.0\NUnitSpecFlow.pdb
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\obj\Debug\net8.0\NUnitSpecFlow.genruntimeconfig.cache
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\obj\Debug\net8.0\ref\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\Allure.Commons.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4Allure\Unit4Allure\bin\Debug\net8.0\NUnit.Allure.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\testhost.exe
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\testhost.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\specflow.json
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\NUnitSpecFlow.deps.json
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\NUnitSpecFlow.runtimeconfig.json
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\NUnitSpecFlow.pdb
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\Allure.Commons.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\Allure.Net.Commons.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\Allure.SpecFlowPlugin.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\AngleSharp.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\Aquality.Selenium.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\Aquality.Selenium.Core.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\AspectInjector.Broker.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\BoDi.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\SeleniumExtras.PageObjects.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\Gherkin.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\0Harmony.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\MimeTypesMap.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\NLog.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\NUnit.Allure.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\WebDriver.Support.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\WebDriver.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\Sentry.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\TechTalk.SpecFlow.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\SpecFlow.Internal.Json.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\WebDriverManager.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\Xamarin.Essentials.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\obj\Debug\net8.0\NUnitSpecFlow.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\obj\Debug\net8.0\NUnitSpecFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\obj\Debug\net8.0\Sentry.Attributes.cs
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\obj\Debug\net8.0\NUnitSpecFlow.AssemblyInfoInputs.cache
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\obj\Debug\net8.0\NUnitSpecFlow.AssemblyInfo.cs
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\obj\Debug\net8.0\NUnitSpecFlow.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\obj\Debug\net8.0\NUnitSpe.FF0F0C53.Up2Date
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\obj\Debug\net8.0\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\obj\Debug\net8.0\refint\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\obj\Debug\net8.0\NUnitSpecFlow.pdb
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\obj\Debug\net8.0\NUnitSpecFlow.genruntimeconfig.cache
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureAndJenk\Unit4AllureJenkins\obj\Debug\net8.0\ref\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\testhost.exe
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\testhost.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\specflow.json
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\NUnitSpecFlow.deps.json
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\NUnitSpecFlow.runtimeconfig.json
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\NUnitSpecFlow.pdb
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\Allure.Commons.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\Allure.Net.Commons.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\Allure.SpecFlowPlugin.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\AngleSharp.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\Aquality.Selenium.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\Aquality.Selenium.Core.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\AspectInjector.Broker.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\BoDi.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\SeleniumExtras.PageObjects.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\Gherkin.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\0Harmony.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\MimeTypesMap.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\NLog.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\NUnit.Allure.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\WebDriver.Support.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\WebDriver.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\Sentry.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\TechTalk.SpecFlow.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\SpecFlow.Internal.Json.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\WebDriverManager.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\Xamarin.Essentials.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\obj\Debug\net8.0\NUnitSpecFlow.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\obj\Debug\net8.0\NUnitSpecFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\obj\Debug\net8.0\Sentry.Attributes.cs
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\obj\Debug\net8.0\NUnitSpecFlow.AssemblyInfoInputs.cache
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\obj\Debug\net8.0\NUnitSpecFlow.AssemblyInfo.cs
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\obj\Debug\net8.0\NUnitSpecFlow.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\obj\Debug\net8.0\NUnitSpe.FF0F0C53.Up2Date
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\obj\Debug\net8.0\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\obj\Debug\net8.0\refint\NUnitSpecFlow.dll
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\obj\Debug\net8.0\NUnitSpecFlow.pdb
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\obj\Debug\net8.0\NUnitSpecFlow.genruntimeconfig.cache
+C:\Users\d.shkirando\source\repos\EXAM\Unit4AllureJenkins\obj\Debug\net8.0\ref\NUnitSpecFlow.dll
